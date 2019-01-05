@@ -2,7 +2,7 @@
 
 > A curated list of awesome resources for electronic engineers and hobbyists
 
-Electronic engineering (EE) is the practice of understanding, designing and building electronic circuits. It is often differentiated from electrical engineering in that it mostly deals with low power DC electronic circuits rather than high power AC systems but there is a lot of overlap between electronic and electrical engineering.
+Electronic engineering (EE) is the practice of understanding, designing and building electronic circuits. It is often differentiated from electrical engineering（电气工程） in that it mostly deals with low power DC（direct current） electronic circuits rather than high power AC systems but there is a lot of overlap between **electronic and electrical engineering**.
 
 Experimenting with and building electronic circuits is also a popular hobby and many professional resources are often equally applicable to hobbyists and vice versa.
 
@@ -42,20 +42,25 @@ This list is for websites, services, software, tools and more: everything that y
 ## Learning
 
 ### Technical Tutorials
-- ["skill" tag on learn.sparkfun.com](https://learn.sparkfun.com/tutorials/tags/skill) - A wide variety of technical tutorials on various EE related skills.
+- [**"skill" tag on learn.sparkfun.com**](https://learn.sparkfun.com/tutorials/tags/skill) - A wide variety of technical tutorials on various EE related skills.
+  -  Providing educators with curriculum, professional development, kits/materials, and other resources about maker education.
+  -  Can search some embedded models.
 - [Soldering is Easy](https://mightyohm.com/blog/2011/04/soldering-is-easy-comic-book/) - Comic book that goes over the basics of soldering that has been translated into quite a few languages.
 - [Uses of Different Soldering Iron Tips](http://www.instructables.com/id/Uses-of-Different-Soldering-Iron-Tips/) - Covers what all those different soldering iron tips are good for.
 
 ### Theory and Courses
 - [All About Circuits](https://www.allaboutcircuits.com/textbook/) - Online textbook for learning theory with clear diagrams and explanations.
+  - Electrical basic knowledge  paper
 - [Electrical Engineering - Khan Academy](https://www.khanacademy.org/science/electrical-engineering) - Online learning platform with lots of topics, including a full course on electrical engineering, circuits, semiconductors, signals, robots, and even reverse engineering electronic devices.
+  - Videos
 
 
 ## Simulators
 - [LTSpice](http://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) - The industry standard free SPICE circuit simulator from Linear Technologies.
 - [Ngspice](http://ngspice.sourceforge.net/) - Open source SPICE circuit simulator.
 - [Circuit JS](http://www.falstad.com/circuit/circuitjs.html) - Open source online simulator for simpler circuits with live interactivity and visualization.
-- [Every Circuit](http://everycircuit.com) - Free to try online, visual, interactive circuit simulator for simpler circuits.
+- [**Every Circuit**](http://everycircuit.com) - Free to try online, visual, interactive circuit simulator for simpler circuits.
+  - Maybe is perfect.
 - [Qucs](http://qucs.sourceforge.net/) - Open source integrated circuit simulator for DC, AC, S-parameter, noise analysis, etc.
 - [iCircuit](http://icircuitapp.com/) - Easy to use electronic circuit simulator, its advanced simulation engine can handle both analog and digital circuits and features realtime always-on analysis.
 
