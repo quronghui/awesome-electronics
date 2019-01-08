@@ -68,26 +68,29 @@ This list is for websites, services, software, tools and more: everything that y
 
 ### Online
 - [Tracespace Viewer](http://viewer.tracespace.io) -  Gerber viewer that lets you inspect the individual layers as well as the board preview.
-- [Gerblook](http://gerblook.org/) - Online Gerber viewer powered by Gerbv.
-- [Mayhew Labs 3dpcb](http://mayhewlabs.com/3dpcb) - 3D Gerber viewer.
+  - It is simple to using. But need to select each layer.
+- [Gerblook](http://gerblook.org/) - Online Gerber viewer powered by Gerbv. Process a Good user interface
+- [Mayhew Labs 3dpcb](http://mayhewlabs.com/3dpcb) - 3D Gerber viewer; And can save the 3D merge
 - [EasyEDA Gerber Viewer](https://gerber-viewer.easyeda.com/) - Gerber viewer and design for manufacture test.
-- [CircuitPeople](https://circuitpeople.com) - No frills 2D layer viewer for Gerbers, without the excessive processing.
+- [CircuitPeople](https://circuitpeople.com) - No frills 2D layer viewer for Gerber, without the excessive processing.
 
 ### Installable
 - [Gerbv](http://gerbv.geda-project.org/) - Excellent Gerber viewer for Linux and BSD.
 - [KiCAD Gerbview](http://kicad-pcb.org/) - The KiCAD gerber viewer.
 
-
 ## Free EDA Packages
+
++ Electronic Design Automation
+
 - [KiCAD](http://kicad-pcb.org/) - Open source EDA package with push and shove router, differential pairs and much more.
-- [Eagle](https://www.autodesk.com/products/eagle/overview) - One of the most popular EDA packages due to it's (board size restricted) free version.
-- [Design Spark PCB](https://www.rs-online.com/designspark/pcb-software) - Gratis EDA package without restrictions, sponserd by RS Components.
+- [Eagle](https://www.autodesk.com/products/eagle/overview) - One of the **most popular** EDA packages due to it's (board size restricted) free version. More and more supporter
+- [Design Spark PCB](https://www.rs-online.com/designspark/pcb-software) - Gratis EDA package without restrictions, sponsored by RS Components.
 - [Altium Circuit Maker](https://circuitmaker.com/) - Free package from the maker of the go to pro software.
 - [gEDA](http://geda-project.org) - Another open source package, good for people that like scripting and makefiles, Linux and BSD only.
 - [DipTrace](https://diptrace.com) - Quality Schematic Capture and PCB Design software with (pin and signal layer restricted) free version.
 
 
-## CAD Specific
+## CAD Specific  (Computer aided design)
 
 ### KiCAD
 - [Xesscorp's list of KiCAD 3rd party tools](https://github.com/xesscorp/kicad-3rd-party-tools)
@@ -100,6 +103,18 @@ This list is for websites, services, software, tools and more: everything that y
 
 ### Eagle
 - [List of ULPs everyone should know](https://www.element14.com/community/community/cadsoft_eagle/blog/2015/01/19/eagle-ulps-every-user-should-know)
+  - ULP -- User Language Program
+  - Many ULPs that have been written by the pros at CadSoft waiting to be discovered. 
+  - **Mountsmd.ulp** ： 
+    - Create a Component Placement List 
+    - This ULP outputs 2 files: one describing top side SMD parts, and the other describing bottom side SMD parts.
+  - **BOM.ULP**
+  - **Normalize-text.ulp**
+    - Force all of the text on silkscreen layers to be of unified size and thickness.
+    - change all text
+  - **Exp-Lbr.ulp**
+    - Build a component library from a design.
+    - Making PCB library
 - [Adafruit Eagle Library](https://github.com/adafruit/Adafruit-Eagle-Library)
 - [SparkFun Electronics Eagle Libraries](https://github.com/sparkfun/SparkFun-Eagle-Libraries)
 
